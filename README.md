@@ -1,16 +1,12 @@
-# PDFTron Android OCR Scanner Sample
-This sample uses Google's ML Kit Text Recognition APIs to extract text from image documents taken with the camera. The PDFTron API is used to create an output PDF containing the captured image and recognized text.
-
-![Screenshot](https://pdftron.s3.amazonaws.com/custom/websitefiles/android/pdftron-scanner-ocr-min.gif)
+# OCR Scanner Andriod App
+An Android App which can scan documents, images and extract text from the it, then we can copy that text or even we can search the respective extracted text. It uses Google's ML Kit Text Recognition APIs to extract text from image documents taken with the camera. The PDFTron API is used to create an output PDF containing the captured image and recognized text.
 
 # Setup
 1. Clone this repository.
 2. Open a new project in Android and select the folder containing this repository.
 3. Run the app in Android Studio.
 
-## Contributing
-See [Contributing](./CONTRIBUTING.md)
+#Here, Thats how it works
 
-## License
-See [License](./LICENSE)
-![](https://onepixel.pdftron.com/pdftron-android-samples)
+
+![demo](https://user-images.githubusercontent.com/63675385/181689225-28173bb4-97d1-4d21-9dc7-16ab383d3fa6.gif)
