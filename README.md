@@ -4,7 +4,8 @@ An Android App which can scan documents, images and extract text from the it, th
 # Setup
 1. Clone this repository.
 2. Open a new project in Android Studio and select the folder containing this repository.
-3. Run the app in Android Studio.
+3. Be patience it will take time to Build Gradle, once Gradle Build successfully. 
+4. Run the app in Android Studio.
 
 #Here, Thats how it works
 
