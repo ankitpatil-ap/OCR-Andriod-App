@@ -6,7 +6,7 @@ Optical Character Recognition Docx Scanner An Android App which can scan documen
 2. Open a new project in Android Studio and select the folder containing this repository.
 3. Be patience it will take time to Build Gradle, once Gradle Build successfully. 
 4. Run the app in Android Studio.
-
+  
 #Here, Thats how it works
 
 
